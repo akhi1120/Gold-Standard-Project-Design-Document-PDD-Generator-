@@ -8,13 +8,6 @@ The generated document follows the official Gold Standard PDD structure (Section
 
 This project works offline — it does not require any API keys.
 
-GoldStandard_PDD_Agent/
-│
-├── app.py                        # Main Streamlit app (AI agent logic + UI)
-├── template_filler.py             # Inserts the generated draft into the Word template
-├── GoldStandard_PDD_Template.docx # Official Gold Standard template (user-provided)
-├── requirements.txt               # Python dependencies
-
 ## HOW TO RUN
 
 1. Install dependencies:
